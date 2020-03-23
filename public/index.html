@@ -8,7 +8,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <style>
+        #map {
+            min-height: 300px;
+            height: 100%;
+        }
+    </style>
     <title>Hello, world!</title>
 </head>
 <body>
@@ -16,28 +21,72 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Contact Tracing Help</h1>
+            <h1>Contact Travel Entry</h1>
         </div>
     </div>
 
     <div class="row">
-        <div class="input-group input-group-sm mb-3">
-            <div class="input-group-prepend">
-                <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
-            </div>
-            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        <div class="col-12">
+            <form action="postmovement" method="get">
+                <div class="input-group input-group-md mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="text-name">Name</span>
+                    </div>
+                    <input type="text" name="userName" class="form-control" aria-label="Name of Person"
+                           aria-describedby="text-name">
+                </div>
+                <div class="input-group input-group-md mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="startPosition">Started Travelling From</span>
+                    </div>
+                    <input type="text" name="startPosition" class="form-control" aria-label="Started Travelling From"
+                           aria-describedby="startPosition">
+                </div>
+                <div class="input-group input-group-md mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="startTime">At</span>
+                    </div>
+                    <input type="date" name="startDate" class="form-control" aria-label="At"
+                           aria-describedby="startTime">
+                    <input type="time" name="startTime" class="form-control" aria-label="At"
+                           aria-describedby="startTime" value="13:30">
+                </div>
+                <div class="input-group input-group-md mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="endPosition">And Reached</span>
+                    </div>
+                    <input type="text" name="endPosition" class="form-control" aria-label="Travelled to"
+                           aria-describedby="endPosition">
+                </div>
+                <div class="input-group input-group-md mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="endTime">At</span>
+                    </div>
+                    <input type="date" name="endDate" class="form-control" aria-label="At"
+                           aria-describedby="endTime">
+                    <input type="time" name="endTime" class="form-control" aria-label="Reached"
+                           aria-describedby="endTime" value="13:30">
+                </div>
+                <div class="input-group input-group-md mb-3">
+                    <input type="checkbox" name="isInfected" id="isInfected">
+                    <label for="isInfected">Infected</label>
+                </div>
+                <input type="submit" value="Inform">
+            </form>
+        </div>
+        <div id="map" class="col-12 my-3">
+
         </div>
     </div>
 </div>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
         integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
         crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+<script src="mapper.js"></script>
 </body>
 </html>

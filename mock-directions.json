@@ -1,0 +1,554 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJA2nfWaqf-DkRg4tkQ0BEsQ0",
+      "types": [
+        "airport",
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJX51xZSx3AjoRhw7zBvqyVc8",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 22.6445538,
+          "lng": 88.43885779999999
+        },
+        "southwest": {
+          "lat": 22.5199899,
+          "lng": 88.35703959999999
+        }
+      },
+      "copyrights": "Map data ©2020",
+      "legs": [
+        {
+          "distance": {
+            "text": "22.9 km",
+            "value": 22868
+          },
+          "duration": {
+            "text": "53 mins",
+            "value": 3156
+          },
+          "end_address": "26A, Aswini Dutta Rd, Dover Terrace, Ballygunge, Kolkata, West Bengal 700029, India",
+          "end_location": {
+            "lat": 22.5200455,
+            "lng": 88.3571918
+          },
+          "start_address": "Netaji Subhash Chandra Bose International Airport (CCU), Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India",
+          "start_location": {
+            "lat": 22.643042,
+            "lng": 88.4360351
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "12 m",
+                "value": 12
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 2
+              },
+              "end_location": {
+                "lat": 22.6430842,
+                "lng": 88.43613850000001
+              },
+              "html_instructions": "Head <b>northeast</b>",
+              "polyline": {
+                "points": "_neiCgtwzOGS"
+              },
+              "start_location": {
+                "lat": 22.643042,
+                "lng": 88.4360351
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.3 km",
+                "value": 1262
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 277
+              },
+              "end_location": {
+                "lat": 22.6411753,
+                "lng": 88.4332455
+              },
+              "html_instructions": "Slight <b>left</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "gneiC{twzOGAAACCCCCEISWw@Wk@[c@[[WO_@Qa@OMGGEGGIKIOIYCQCO?I?K?K@KDYJWJURSTOXIr@MPCN?`@@\\B|@F`@DP@TBNDZFVJJBLFHDLDHFHFBDFDJNLTJTH\\F\\@R@P?H?BANAPEPGPKNUX]XEBOJOJ]T_@XQLKLGLCPCPCRAR@J@JHRNZr@tA`EjHDHPZJP"
+              },
+              "start_location": {
+                "lat": 22.6430842,
+                "lng": 88.43613850000001
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 112
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 22.6402585,
+                "lng": 88.43294469999999
+              },
+              "html_instructions": "Keep <b>left</b> to continue toward <b>NH12</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "kbeiCybwzORTHHJFVJRDNBT@P@LAJ?NA"
+              },
+              "start_location": {
+                "lat": 22.6411753,
+                "lng": 88.4332455
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.2 km",
+                "value": 1233
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 170
+              },
+              "end_location": {
+                "lat": 22.6295357,
+                "lng": 88.433977
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>NH12</b><div style=\"font-size:0.9em\">Pass by United Bank of India (on the left in 750&nbsp;m)</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "s|diC{`wzO@Ab@[TQVOj@Yt@Y`A[\\IREXGh@Gt@KnIeAZCfBQxDs@@?l@Ch@OB?r@ILALApBGT?X?f@@XB\\@d@FbAL|AVz@N\\FpCb@|AV~@Rj@F"
+              },
+              "start_location": {
+                "lat": 22.6402585,
+                "lng": 88.43294469999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.3 km",
+                "value": 1341
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 162
+              },
+              "end_location": {
+                "lat": 22.6176213,
+                "lng": 88.43200379999999
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Bangaon - Kulpi Rd</b>/<wbr/><b>Kazi Nazrul Islam Ave</b>/<wbr/><b>Thakurnagar - Panchpota Rd</b>/<wbr/><b>VIP Rd</b><div style=\"font-size:0.9em\">Pass by Gangurams Sweets (on the left in 850&nbsp;m)</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "sybiCkgwzOb@HvB\\|B\\rARpAND@pAJ^Bx@FbALn@DhCPvDVhIt@z@FT@jAJbBN`@Bd@DbBL|Gh@fDV~@Fh@J"
+              },
+              "start_location": {
+                "lat": 22.6295357,
+                "lng": 88.433977
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.2 km",
+                "value": 2177
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 172
+              },
+              "end_location": {
+                "lat": 22.6027521,
+                "lng": 88.42036379999999
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Kestopur - Baguiati Flyover</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "co`iC_{vzO|@PxBd@`@JJFr@Zp@Zb@R|BjAh@Vh@Xj@XzAt@RNTLf@X|@d@^RFBtAr@t@`@FB~@d@`@Rx@\\b@Pt@ZdBv@~BbAd@ThAf@VJrAj@LD~@`@dAd@ZJ~@\\@?bBh@`A\\b@LbBj@~@Zr@Tv@Zr@Zd@XXP`@Tx@p@j@h@n@r@NVVZb@z@HPXr@^~@Nd@J^Pz@Lx@J|@@JB\\@^B`B?ZAd@El@Cf@"
+              },
+              "start_location": {
+                "lat": 22.6176213,
+                "lng": 88.43200379999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 175
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 22.6029909,
+                "lng": 88.41867950000001
+              },
+              "html_instructions": "Merge onto <b>Bangaon - Kulpi Rd</b>/<wbr/><b>Kazi Nazrul Islam Ave</b>/<wbr/><b>Thakurnagar - Panchpota Rd</b>/<wbr/><b>VIP Rd</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "er}hCgrtzOMtBa@xE"
+              },
+              "start_location": {
+                "lat": 22.6027521,
+                "lng": 88.42036379999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.3 km",
+                "value": 2262
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 210
+              },
+              "end_location": {
+                "lat": 22.5952618,
+                "lng": 88.39934009999999
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Bangaon - Kulpi Rd</b>/<wbr/><b>Thakurnagar - Panchpota Rd</b>/<wbr/><b>VIP Rd</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "us}hCwgtzOC\\Gp@Ej@Cd@Cz@Er@El@KlAGn@UzCY`DIzAA`@?\\?V@X@\\BZ@PDXFXBRFRFZ@FJj@p@rA~@nBb@t@LR^n@pAfChCdFTb@j@jA\\r@Rd@N\\d@fAZn@BDx@|AdApBfAzBnA|BbAjBP\\Vd@bBdDtBbEbB`DHPj@fAHN@D@@z@|ATZpBzDNX"
+              },
+              "start_location": {
+                "lat": 22.6029909,
+                "lng": 88.41867950000001
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "6.2 km",
+                "value": 6165
+              },
+              "duration": {
+                "text": "15 mins",
+                "value": 875
+              },
+              "end_location": {
+                "lat": 22.5502687,
+                "lng": 88.40294890000001
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Bangaon - Kulpi Rd</b>/<wbr/><b>Eastern Metropolitan Bypass</b>/<wbr/><b>EM Bypass - Kazi Nazrul Islam Ave Flyover</b>/<wbr/><b>Thakurnagar - Panchpota Rd</b>/<wbr/><b>Ultadanga Flyover</b><div style=\"font-size:0.9em\">Continue to follow Bangaon - Kulpi Rd/<wbr/>Eastern Metropolitan Bypass/<wbr/>Thakurnagar - Panchpota Rd</div><div style=\"font-size:0.9em\">Pass by the water (on the right in 5.1&nbsp;km)</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "kc|hC{npzOb@PHFDFHHTb@Zh@Vd@LRrA~B|@|Ap@fAt@rAfBxCNTHLJJLJLFJDNBZBTAJCPEBALENKXSHEDEJIJIXU`@YTQVOj@[d@Qf@QTIj@Od@Od@QZK`Bk@x@Y|@[n@UjCcAj@S|As@~@g@v@c@hAk@xAq@VKrBs@dAc@d@Qh@O@AbA[p@UzAg@`A]dAc@bAe@z@_@JEp@WZOPIZId@Kh@Kz@OfCg@BA~Ba@jGaAhJ}A~A[~Cc@zBYtCi@x@Un@Q?AlA_@jBu@n@ULGj@SxF_CbDiA\\MHEbBu@dCaAXMrOqFr@WdDiAfBo@nEeBJGVOZQf@Wj@]|@o@j@_@|BkBbA{@t@m@ZYXWp@i@hA_AFEBEl@i@dA}@NMXY@A\\[l@]|@]v@En@@ZBXB\\FZFVFTFNFRFl@VNHRLNJf@d@VX^b@DFl@r@bAhAr@x@X^@BVZXb@\\l@R\\Zl@N`@Ph@BNHXNl@Lr@Lx@JfAVvCHnA@@Dl@@JBTDPBNBPH\\DNJP^p@^n@RZr@pAXd@DFLRTX^f@lB|B"
+              },
+              "start_location": {
+                "lat": 22.5952618,
+                "lng": 88.39934009999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.5 km",
+                "value": 4504
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 407
+              },
+              "end_location": {
+                "lat": 22.5429897,
+                "lng": 88.3664053
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Maa Flyover</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ejshCmeqzO?D?B@B@B?BBB@Db@n@b@l@dCjDdB~BNPJJRRNNZVBB`@Zx@f@`@P^PFBp@TJDj@Jh@JN@lBZvBZp@JhBVhBX\\Dr@LRD^JHDHDRLLNDDFJHP@@DLDT@DD\\?Z?L?NM|@Gh@Kx@Cj@Ad@?n@Br@Jz@LjALz@BJXnB`@xCPhAVdB@JZtB?DF\\Hd@r@bFp@pEHh@Fp@BRBx@@T@`@?p@C|AEh@C^CPIn@In@Kr@Eh@Aj@?N?R?j@@l@@FFv@@PDVNr@Hb@DR\\xAJd@tAvE\\dAZx@^bANb@h@zA\\x@n@bBL`@FNXx@HXNh@R~@F^Lv@JjA?R@|@?~@CdAAPEx@GlAA\\E\\Ad@?h@@DDp@BX@BBh@?b@Cb@C\\AFCf@C\\YjFA\\CTEXG\\UxAId@O`AABG\\QdAAFS~@ADGZCHCNMb@Kb@Mb@W|@CHk@~BM^Sd@MXMPIHSPUPc@PIBc@LSJi@Re@RSN_@TWT]b@{@vAOX"
+              },
+              "start_location": {
+                "lat": 22.5502687,
+                "lng": 88.40294890000001
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "32 m",
+                "value": 32
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 22.5428321,
+                "lng": 88.3661424
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Syed Amir Ali Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "u|qhCaajzODFDFFJDLDJ"
+              },
+              "start_location": {
+                "lat": 22.5429897,
+                "lng": 88.3664053
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 1003
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 265
+              },
+              "end_location": {
+                "lat": 22.5339707,
+                "lng": 88.3647553
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Syed Amir Ali Ave</b><div style=\"font-size:0.9em\">Pass by the church (on the left)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "u{qhCk_jzO^DZDjBXb@HfBXVDJ@\\DfAJtB^J@v@N\\FB?lCZpBP`@Fp@Hj@Fl@Dt@BjA@DAR?fAK`@C|@ILAJ@B?d@BT@dAVh@JPDL@PBB?~AF"
+              },
+              "start_location": {
+                "lat": 22.5428321,
+                "lng": 88.3661424
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 322
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 62
+              },
+              "end_location": {
+                "lat": 22.531153,
+                "lng": 88.3652458
+              },
+              "html_instructions": "At <b>Gurusaday Crossing</b>, continue onto <b>Ashutosh Chowdary Ave</b>/<wbr/><b>Gariahat Rd</b>/<wbr/><b>Old Ballygunge Rd</b><div style=\"font-size:0.9em\">Pass by Calcutta Cricket and Football Club (on the right)</div>",
+              "polyline": {
+                "points": "idphCwvizOdAJ`AFH?D@L?HAb@ETE^GFCLCfCq@jCg@"
+              },
+              "start_location": {
+                "lat": 22.5339707,
+                "lng": 88.3647553
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 621
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 122
+              },
+              "end_location": {
+                "lat": 22.5257109,
+                "lng": 88.3660455
+              },
+              "html_instructions": "Continue straight to stay on <b>Ashutosh Chowdary Ave</b>/<wbr/><b>Gariahat Rd</b>/<wbr/><b>Old Ballygunge Rd</b><div style=\"font-size:0.9em\">Pass by Birla Mandir (on the right)</div>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "urohCyyizOzDo@dAQp@O~AYjAa@h@ORERG^E^MHAJAP?~@DZBXB^@r@EjCHnAN"
+              },
+              "start_location": {
+                "lat": 22.531153,
+                "lng": 88.3652458
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 304
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 22.5257374,
+                "lng": 88.363117
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Garcha Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "upnhCy~izOAZAxAAn@?Z@R@N@P@D?N?F@J@n@?BDz@?~A?ZANAPCHAFCBCB"
+              },
+              "start_location": {
+                "lat": 22.5257109,
+                "lng": 88.3660455
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 611
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 110
+              },
+              "end_location": {
+                "lat": 22.5248292,
+                "lng": 88.35725459999999
+              },
+              "html_instructions": "Turn <b>left</b> after Gold Salon &amp; Academy (on the left)",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{pnhColizODRHf@RdB?HNdB?HB^BT?v@@RBZ@NBRB`@BVTrCf@pFHz@Hj@RnC"
+              },
+              "start_location": {
+                "lat": 22.5257374,
+                "lng": 88.363117
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 164
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 22.5235632,
+                "lng": 88.3573153
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Dover Terrace</b>/<wbr/><b>Panditiya Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "eknhCyghzO^@f@BTD|@LTBj@JH?B?BA@CBCBO@K@Q"
+              },
+              "start_location": {
+                "lat": 22.5248292,
+                "lng": 88.35725459999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 374
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 95
+              },
+              "end_location": {
+                "lat": 22.5205975,
+                "lng": 88.35843629999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Panditiya Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gcnhCghhzOfBCN@VBd@B@?`@BZ@L?ZAJ?HAFAHAHEf@[FEFEbAa@JGDEFC~@eAFIFGDIP_@"
+              },
+              "start_location": {
+                "lat": 22.5235632,
+                "lng": 88.3573153
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "68 m",
+                "value": 68
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 22.5199899,
+                "lng": 88.3584118
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Panditiya Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "wpmhCgohzOF@R?P@jA@"
+              },
+              "start_location": {
+                "lat": 22.5205975,
+                "lng": 88.35843629999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 126
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 34
+              },
+              "end_location": {
+                "lat": 22.5200455,
+                "lng": 88.3571918
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Aswini Dutta Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}lmhCaohzOKzD?v@"
+              },
+              "start_location": {
+                "lat": 22.5199899,
+                "lng": 88.3584118
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [
+
+          ],
+          "via_waypoint": [
+
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "_neiCgtwzOGSGAEEGIa@kAWk@[c@s@k@aAa@UMQSSi@Gw@@WPq@^i@n@YdAQp@@nCRd@Hr@Rp@V^ZXd@Tr@Hp@@ZIv@S`@UX]XUNm@`@q@f@SZMjABVXn@lGfL^f@TPj@Pd@D^?ZArA_A`Bs@~Ae@lCa@jJiAfBQxDs@n@Cl@O`AK~BIn@?`ADbAH`Dd@hIrAfGbAhHbAnFd@xDVvDVhIt@pAHnDZhM`AfF^fB\\zCp@~@b@|FrCdExBvH~D`Bx@|An@`IlDbEdB`FpBjEtAnGxBxAt@z@f@dBzA~@jAz@vAb@dAn@dB\\zAXvBDh@D`CA`AItAMtBa@xEKnAIpAInBQzB]jEc@|F?pBLdBZ|ALr@pBbEp@hApBvDhFhKdBzDjEpI|DlHfI|Ox@~Az@|ATZ`CtEl@XNPvAfCxFxJvBnDTXZRZHp@@\\IPGh@_@f@_@hBqApAm@|@[rC}@hGwBvDwA|C{A`CoApB}@xDwAnAa@rE{AfCaA~BeAjBw@`AUdB[jCi@jKcBhMyBzG}@tCi@x@Un@SvFsBdHsC`EwAlB{@~CoAtYcKzEmBr@a@rAu@hBoArGoF|CgCfC{BZ[\\[l@]|@]v@EjADv@Jr@Nd@N`A^b@Vv@p@jBxBrCfDp@~@p@jAj@nATx@XfAZlBn@pHP`BVnA`EbHt@`AlB|B?D@F@FlAfBjFjHZ\\bA~@zAbA`Ab@x@Xv@P~GdAbHbAfARh@P\\RRTXl@FZDx@?\\UfBOdBAtANnBZfCpA~It@lFvBxNPzAFlABv@CnCIhAM`AUbBGtA@|BPhB|@dE`B|Fx@~BvB|F~AnEXbAZ~AXbC@pACdCGjAQnD@n@HjADl@CfAMjB[hGIn@w@~E_AzEaCbJa@~@WZi@b@m@Tw@XoAf@s@d@u@x@kApBJNLXDJ^DfC^jCb@hCXvEx@dHt@|APbBHpA?zAK~AMX?h@BzAXz@P^DbBFfCRf@?`BWtCu@fIwAvBa@~AYjAa@|@Ur@Mh@O\\AtCNr@EjCHnANAZChC@n@Dv@BfADzCAj@EZEJCBDR\\lCRxCBlADn@L|A|@dKRfBRnC^@|@HhC\\HEFSB]vBA|@FlADx@Ez@c@~Au@tAyALQP_@F@d@@jA@KzD?v@"
+      },
+      "summary": "Bangaon - Kulpi Rd/Thakurnagar - Panchpota Rd",
+      "warnings": [
+
+      ],
+      "waypoint_order": [
+
+      ]
+    }
+  ],
+  "status": "OK"
+}
